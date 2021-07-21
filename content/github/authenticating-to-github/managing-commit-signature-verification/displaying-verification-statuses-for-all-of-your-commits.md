@@ -1,5 +1,5 @@
 ---
-title: Displaying verification statuses for all of your commits
+docs/content/github/authenticating-to-github/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits.mdtitle: Displaying verification statuses for all of your commits
 shortTitle: Displaying verification for all commits
 intro: You can enable vigilant mode for commit signature verification to mark all of your commits and tags with a signature verification status.
 versions:
